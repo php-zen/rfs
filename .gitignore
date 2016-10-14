@@ -1,0 +1,7 @@
+*/
+!.gitignore
+
+!lib/
+!share/
+
+!composer.json
